@@ -1,0 +1,7 @@
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProject2
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.csproj.AssemblyReference.cache
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfo.cs
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\kosra\Desktop\Skola\IT-Säkerhet\Injection_Test2\TestProject2\obj\Debug\net8.0\TestProject2.sourcelink.json

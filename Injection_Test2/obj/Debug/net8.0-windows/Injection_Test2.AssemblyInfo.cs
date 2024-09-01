@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Injection_Test2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f67a31582c14dd649d812bbe19d6efcbbe8517")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe3994d6b55f97025069ccf59fd4d7cd96e5b0fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Injection_Test2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Injection_Test2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
